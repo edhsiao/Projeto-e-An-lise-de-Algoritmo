@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464570651 source:c:\users\sha0\desktop\unifesp\paa\paa 2016\lab 4\lab4_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
